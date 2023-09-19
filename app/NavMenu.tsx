@@ -13,7 +13,17 @@ export default function NavMenu() {
                 alt="Portfolio page logo"
                 />
             </Link>
-            <Link href={'/about'}>About</Link>
+            <ul className={styles.links}>
+                <li>
+                    <Link href={'/projects'}>Projects</Link>
+                </li>
+                <li>
+                    <Link href={'/blog'}>Blog</Link>
+                </li>
+                <li>
+                    <Link href={'/about'}>About</Link>
+                </li>
+            </ul>
         </nav>
     )
 }

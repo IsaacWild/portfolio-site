@@ -1,9 +1,9 @@
 import styles from "./page.module.css"
 
-export default function About() {
+export default function Blog() {
     return(
         <main className={styles.main}>
-            <h1>About Page</h1>
+            <h1>Blog Page</h1>
         </main>
     )
 }
