@@ -3,4 +3,4 @@ Hiya! This is going to be my portfolio page, I have been learning great new thin
 
 I am also using bun as my javascript runtime! 
 
-I am also adding this part to show a merge conflict in a tutorial I am making!
+I am also adding this part to show a fake merge conflict in a tutorial I am making!

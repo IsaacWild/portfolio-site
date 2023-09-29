@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Inter">@import url(https://fonts.googleapis.com/css2?family=Inter%3Aital%2Cwght%400%2C100%3B0%2C200%3B0%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B0%2C800%3B0%2C900&amp;display=swap);</style>
+  </defs>
+  <g style="transform-origin: 248.295px 214.488px;" transform="matrix(0.874996960163, 0.000005000002, -0.000005000002, 0.875001013279, 0.212812447007, -24.934806776211)">
+    <title>Logo</title>
+    <path d="M 111.955 69.292 L 192.534 69.292 L 244.582 17.244 C 247.574 14.252 252.426 14.252 255.418 17.244 L 307.466 69.292 L 383.961 69.292 C 388.193 69.292 391.624 72.723 391.624 76.954 L 391.624 153.449 L 447.756 209.581 C 450.749 212.573 450.749 217.425 447.756 220.418 L 391.624 276.55 L 391.624 348.961 C 391.624 353.192 388.193 356.623 383.961 356.623 L 311.55 356.623 L 255.418 412.755 C 252.426 415.748 247.574 415.748 244.582 412.755 L 188.45 356.623 L 111.955 356.623 C 107.723 356.623 104.292 353.192 104.292 348.961 L 104.292 272.466 L 52.244 220.418 C 49.252 217.425 49.252 212.573 52.244 209.581 L 104.292 157.533 L 104.292 76.954 C 104.292 72.723 107.723 69.292 111.955 69.292 Z" style="stroke-width: 10px; stroke: rgb(14, 11, 6); fill: rgb(210, 98, 96); stroke-linejoin: round; pointer-events: none; transform-origin: 250px 250px;">
+      <title>Outline</title>
+    </path>
+    <g style="pointer-events: none;">
+      <title>Leaf</title>
+      <path style="stroke: rgb(0, 0, 0); stroke-width: 8px; stroke-linecap: round; stroke-linejoin: round; pointer-events: auto; fill: rgb(103, 123, 80);" d="M 250 320 C 187.996 320 138.5 270 140 170 C 136.5 140 219.96 190.693 210 200 C 196.83 198.935 225 110 250 110 C 275 110 304.585 196.763 290 200 C 285.814 191.727 360.5 140 360 170 C 366.4 270 312.004 320 250 320 Z"/>
+      <g style="pointer-events: auto;">
+        <title>Stem</title>
+        <line style="stroke: black; stroke-linecap: round; transform-box: fill-box; transform-origin: 50% 50%; stroke-width: 8px;" x1="250" y1="180" x2="250" y2="350"/>
+        <line style="stroke: black; stroke-linecap: round; transform-origin: 319.736px 256.872px; stroke-width: 8px;" x1="220.562" y1="151.752" x2="248.306" y2="239.674" transform="matrix(0.849105, -0.528225, 0.528225, 0.849105, 0.000005, 0.000007)"/>
+        <line style="stroke: black; stroke-linecap: round; transform-origin: 368.005px 212.677px; stroke-width: 8px;" x1="320" y1="220" x2="250" y2="280"/>
+      </g>
+    </g>
+  </g>
+  <g transform="matrix(1, 0, 0, 1.5206120014190674, 0, -192.62643432617188)">
+    <title>Text Box</title>
+    <g>
+      <title>Box</title>
+      <rect x="25" y="370" width="450" height="65.763" style="fill: rgb(115, 150, 143); stroke-linecap: round; stroke-linejoin: round; fill-rule: nonzero; paint-order: stroke; stroke: rgb(14, 11, 6); vector-effect: non-scaling-stroke; stroke-width: 6px;"/>
+    </g>
+    <g>
+      <title>Text</title>
+    </g>
+  </g>
+  <text style="fill: rgb(14, 11, 6); font-family: Inter; font-size: 72px; font-weight: 700; letter-spacing: 2px; text-transform: capitalize; white-space: pre;" x="32.604" y="447.978">WILD TECH</text>
+</svg>
