@@ -6,35 +6,35 @@ import LinkedIn from "../public/linkedin-logo.svg"
 export default function Footer() {
     return(
         <div className={styles.footer}>
-            <a href="https://www.linkedin.com/in/isaac-wild-b9b500123/" target="blank_">
-                <span>LinkedIn</span>
+            <div className={styles.footerHolder}>
+                <a href="https://www.linkedin.com/in/isaac-wild-b9b500123/" target="blank_">
                 <Image
                     src="/linkedin-logo.svg"
-                    width={20}
-                    height={20}
+                    width={30}
+                    height={30}
                     alt="Logo for LinkedIn"
                 />
             </a>
         
             <a href="https://github.com/IsaacWild" target="blank_">
-                <span>GitHub</span>
                 <Image
                     src="/github-logo.svg"
-                    width={20}
-                    height={20}
+                    width={30}
+                    height={30}
                     alt="Logo for LinkedIn"
                 />
             </a>
         
             <a href="https://medium.com/@isaac.wild" target="blank_">
-                <span>Medium</span>
                 <Image
                     src="/medium-logo.svg"
-                    width={20}
-                    height={20}
+                    width={30}
+                    height={30}
                     alt="Logo for LinkedIn"
                 />
             </a>
+            </div>
+            
         </div>
     )
 }

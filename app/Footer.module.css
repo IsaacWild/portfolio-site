@@ -1,7 +1,6 @@
 .footer {
     background-color: #536340;
     display: flex;
-    align-items: center;
     justify-content: center;
     padding: 1rem 0rem;
     gap: 1rem;
@@ -14,4 +13,11 @@
 
 .footer img{
     padding: 0 0.25rem;
+}
+
+.footerHolder{
+    max-width: 700px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
 }
