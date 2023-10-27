@@ -8,6 +8,8 @@
     min-height: 50dvh;
     background-color: #536340;
     gap:2rem;
+    color: white;
+
 }
 
 .content h1 { 

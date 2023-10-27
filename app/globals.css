@@ -8,17 +8,20 @@ html,
 body {
   max-width: 100vw;
   overflow-x: hidden;
+  background-color: #536340;
+  display: flex;
+  flex-direction: column;
   min-height: 100dvh;
+  height: 100%;
 }
 
 main {
+  color: white;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 2rem;
   height: 100%;
-  min-height: 50dvh;
-  background-color: #536340;
   gap:1rem;
 }
 

@@ -4,7 +4,8 @@ import styles from './page.module.css'
 export default function Home() {
   return (
     <main className={styles.main}>
-      <h1>Hello Welcome to my website!</h1>
+      <h1>Hi, my names Isaac! </h1>
+      
     </main>
   )
 }
