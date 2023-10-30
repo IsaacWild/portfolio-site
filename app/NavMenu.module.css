@@ -1,10 +1,17 @@
 .nav {
-    background-color: #536340;
     padding: 1rem;
     display: flex;
     gap: 1rem;
     flex-direction: row;
     justify-content: space-around;
+
+
+    background-color: #536340;
+    opacity: 1;
+    background-image:  linear-gradient(30deg, #96A06A 12%, transparent 12.5%, transparent 87%, #96A06A 87.5%, #96A06A), linear-gradient(150deg, #96A06A 12%, transparent 12.5%, transparent 87%, #96A06A 87.5%, #96A06A), linear-gradient(30deg, #96A06A 12%, transparent 12.5%, transparent 87%, #96A06A 87.5%, #96A06A), linear-gradient(150deg, #96A06A 12%, transparent 12.5%, transparent 87%, #96A06A 87.5%, #96A06A), linear-gradient(60deg, #96A06A77 25%, transparent 25.5%, transparent 75%, #96A06A77 75%, #96A06A77), linear-gradient(60deg, #96A06A77 25%, transparent 25.5%, transparent 75%, #96A06A77 75%, #96A06A77);
+    background-size: 52px 91px;
+    background-position: 0 0, 0 0, 26px 46px, 26px 46px, 0 0, 26px 46px;
+
 }
 
 .navItems {
